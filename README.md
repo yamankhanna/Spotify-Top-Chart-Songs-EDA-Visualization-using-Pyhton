@@ -12,5 +12,5 @@ This project includes Exploratory Data Analysis and Visualization of "Spotify To
 - *Building a stunning Dashboard* - using *PowerBI* to showcase the analysis.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](Images/SPOTIFY_TOP_CHART_Dashboard.PNG)
 
