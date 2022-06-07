@@ -10,7 +10,7 @@ This project includes Exploratory Data Analysis and Visualization of "Spotify To
     - Building Charts and Plots using *Seaborn and Matplotlib* libraries.
     - Finding Top Artists, Genres & Songs through different years.
 - *Building a stunning Dashboard* - using *PowerBI* to showcase the analysis.
-## Screenshots
+## Dashboard
 
 ![](Images/SPOTIFY_TOP_CHART_Dashboard.PNG)
 
